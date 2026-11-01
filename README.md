@@ -1,6 +1,6 @@
 # Hello, I'm Shivanand Haligeri 👋
 
-### 🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 AI Enthusiast
+### 🎓 AI & ML Student | 💻 Aspiring Web Developer 
 
 ---
 
